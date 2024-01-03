@@ -1,5 +1,25 @@
-# Hello
+# Ksoloti Power MIDI addon board
 
-## Hello
 
-### Hello
+Kicad 6+
+
+
+Libraries not included, you should be able to retrieve any custom symbols and footprints via the project itself.
+
+
+3D models not included, always such a hassle with those files, can't be a%$ed.
+
+
+Gerbers, BOM and CPL (placement) files for JLC included. You should be able to have the board with all SMD parts produced. Through-hole parts are all quite common: 2.54mm headers, DIN-5 MIDI jacks, DC barrel jack...
+
+
+## Rear
+![3d image](img/ksoloti-power-midi-board-rear.png)
+
+
+## Front
+![3d image](img/ksoloti-power-midi-board-front.png)
+
+
+## Bottom
+![3d image](img/ksoloti-power-midi-board-bottom.png)
