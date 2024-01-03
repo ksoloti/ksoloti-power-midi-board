@@ -12,7 +12,7 @@ Libraries not included, you should be able to retrieve any custom symbols and fo
 
 Gerbers, BOM and CPL (placement) files for JLC included. You should be able to have the board with all SMD parts produced. Through-hole parts are all quite common: 2.54mm headers, DIN-5 MIDI jacks, DC barrel jack...
 
-**Disclaimer: the files are provided as is. I guarantee nothing. Stay safe and double check. If you're not sure if you're doing it right, ask someone with more knowledge for help.**
+## Disclaimer: the files are provided as is. I guarantee nothing. Stay safe and double check. If you're not sure if you're doing it right, ask someone with more knowledge for help.
 
 
 ## Rear
