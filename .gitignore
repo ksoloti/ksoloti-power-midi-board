@@ -17,6 +17,7 @@ _autosave-*
 *-save.kicad_pcb
 fp-info-cache
 ksoloti_power_midi_board-backups
+tags
 
 
 # Netlist files (exported from Eeschema)
