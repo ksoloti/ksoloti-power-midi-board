@@ -16,6 +16,8 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+ksoloti_power_midi_board-backups
+
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -31,4 +33,3 @@ fp-info-cache
 # jlc
 jlcpcb/gerber
 jlcpcb/project.db
-ksoloti_power_midi_board-backups
