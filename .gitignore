@@ -27,10 +27,6 @@ tags
 *.dsn
 *.ses
 
-# Exported BOM files
-*.xml
-*.csv
-
 # jlc
 jlcpcb/gerber
 jlcpcb/project.db
