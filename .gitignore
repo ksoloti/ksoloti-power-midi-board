@@ -27,3 +27,8 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# jlc
+jlcpcb/gerber
+jlcpcb/project.db
+ksoloti_power_midi_board-backups
