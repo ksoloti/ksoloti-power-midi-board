@@ -348,7 +348,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ksoloti_power_midi_board.kicad_pro",
+    "filename": "ksoloti-power-midi-board.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -376,6 +376,7 @@
     },
     "net_colors": {
       "+5V": "rgb(255, 0, 47)",
+      "GND": "rgb(130, 130, 130)",
       "PG14_MIDI_TX": "rgb(177, 163, 82)",
       "PG9_MIDI_RX": "rgb(61, 177, 65)",
       "VBUS_END": "rgb(203, 86, 203)"
