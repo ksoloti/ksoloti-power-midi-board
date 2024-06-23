@@ -15,7 +15,7 @@ Gerbers, BOM and CPL (placement) files for JLC included. You should be able to h
 ## Disclaimer: the files are provided as is. I guarantee nothing. Stay safe and double check. If you're not sure if you're doing it right, ask someone with more knowledge for help.
 
 ## Schematic
-!(ksoloti-power-midi-board.pdf)
+[ksoloti-power-midi-board.pdf](ksoloti-power-midi-board.pdf)
 
 
 ## Rear
